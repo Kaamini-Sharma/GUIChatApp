@@ -20,7 +20,9 @@ A simple **client-server chat app** built using **Java Swing** for the GUI and *
 
 | Server Chat Window | Client Chat Window |
 |--------------------|--------------------|
-| ![Server](screenshots/server.png) | ![Client](screenshots/client.png) |
+| ![Server](![image](https://github.com/user-attachments/assets/253fb202-3182-4b0e-9a04-223023fc390f)
+) | ![Client](![image](https://github.com/user-attachments/assets/b50279ae-bc69-413a-a13c-810db7677b61)
+) |
 
 ---
 
